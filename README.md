@@ -10,7 +10,7 @@ MobileReading
 
 使用技术
 --------
-前端框架：JqueryMobile
+前端框架：JqueryMobile    
 PHP框架： CodeIgniter
 
 
